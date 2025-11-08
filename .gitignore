@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+
+# Build folders
+/build/
+ /dist/
+ /assets/__pycache__/
+
+# IDE files
+.idea/
+.vscode/
